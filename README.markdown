@@ -3,6 +3,7 @@ Torrent Ratio Faker
 
 Simplest possible HTTP proxy for faking requests to BitTorrent tracker. It
 multiplies downloaded and uploaded values by multiplier given via command line.
+Developed with Python and Twisted.
 
 Bundled with:
 * RMP spec file

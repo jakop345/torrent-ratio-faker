@@ -6,7 +6,7 @@ multiplies downloaded and uploaded values by multiplier given via command line.
 Developed with Python and Twisted.
 
 Bundled with:
-* RMP spec file
+* RPM spec file
 * systemd service file
 
 If you will use systemd for managing TRF you may want to have a look at:

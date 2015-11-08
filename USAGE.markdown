@@ -12,7 +12,7 @@ bin/trf.
 Running proxy
 -------------
 
-To see how use proxy run:
+To see how to use proxy run:
 
         trf --help
 
